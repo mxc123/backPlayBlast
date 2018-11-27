@@ -1,0 +1,2 @@
+1. Download the file to the local and place the downloaded file in the same folder.
+2. Use a text editor (or other editor) to open the mainWindows.py file, change the path of the MAYABATCHPATH inside to your own local or server path, run directly and drag the Maya file into the interface to run directly.
